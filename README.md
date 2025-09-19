@@ -1,0 +1,1 @@
+e-Swasthya, developed by Team mediVator, is a telemedicine app that empowers patients to connect with doctors remotely, use AI-driven symptom checkers, access digital prescriptions, and manage pharmacy needs. It makes healthcare more accessible, efficient, and patient-friendly through modern technology.
