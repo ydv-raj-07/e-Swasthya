@@ -35,7 +35,7 @@ const patientSchema = new schema(
         healthrecord:[],
         symptoms:[],
         prescriptions:[],
-        prescriptionForPharmacy:[]
+        prescriptionUploadedAtPharmacy:[]
     },
     {
         timestamps:true
