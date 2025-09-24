@@ -28,7 +28,7 @@ const doctorSchema = new mongoose.Schema({
     },
     availability:[],
     patient:[],
-    prescription:[]
+    prescriptions:[]
 },
 {
     timestamps:true
